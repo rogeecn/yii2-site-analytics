@@ -1,0 +1,21 @@
+{
+    "name": "rogeecn/yii2-site-analytics",
+    "description": "site analytics include baidu,51la,cnzz,google",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","baidu tongji","51la","cnzz","google analytics"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rogee",
+            "email": "rogeecn@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rogee\\": ""
+        }
+    }
+}
